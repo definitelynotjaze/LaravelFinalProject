@@ -128,7 +128,7 @@
           123 Aurora Boulevard, Barangay New<br>
 Manila Quezon City, Metro Manila, Philippines 1112<br>
           <a href="mailto:hello@brewcraft.ph" style="color:var(--gold); display:inline;">hello@brewcraft.ph</a><br>
-          +63 956 950 8925
+          +63 912 345 6789
         </p>
         <p style="color:rgba(255,255,255,.35); font-size:.78rem; margin-top:.5rem;">
           Mon–Fri: 7:00 AM – 9:00 PM<br>

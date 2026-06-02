@@ -236,7 +236,7 @@ Quezon City, Metro Manila, Philippines 1112</span>
             <div class="contact-info-icon"><i class="bi bi-telephone"></i></div>
             <div>
               <strong>Phone</strong>
-              <span>+63 956 950 8925</span>
+              <span>+63 912 345 6789</span>
             </div>
           </div>
         </div>
