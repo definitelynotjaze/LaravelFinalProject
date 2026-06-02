@@ -14,7 +14,7 @@
           <div class="hero-eyebrow fade-up">
             <i class="bi bi-cup-hot-fill"></i>
             Manila's Finest Craft Coffee
-          </div>
+          </div>F
 
           <h1 class="fade-up fade-up-1">
             Every Cup<br>
